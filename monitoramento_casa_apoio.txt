@@ -1,0 +1,26 @@
+REGISTRO DE SAÚDE - CASA DE APOIO DEUS É FIEL
+Assistido: João Silva
+Procedimento: Pós-Cirúrgico Cardíaco
+Medicação: Atenolol (25mg) às 08:00
+---------------------------------------
+REGISTRO DE SAÚDE - CASA DE APOIO DEUS É FIEL
+Assistido: João Silva
+Procedimento: Pós-Cirúrgico Cardíaco
+Medicação: Atenolol (25mg) às 08:00
+---------------------------------------
+REGISTRO DE SAÚDE - CASA DE APOIO DEUS É FIEL
+Assistido: João Silva
+Procedimento: Pós-Cirúrgico Cardíaco
+Medicação: Atenolol (25mg) às 08:00
+---------------------------------------
+Paciente: Antonio  | Procedimento: Medicação
+---------------------------------------
+REGISTRO DE SAÚDE - CASA DE APOIO DEUS É FIEL
+Assistido: Antonio
+Procedimento/Medicação: Medicação
+---------------------------------------
+REGISTRO DE SAÚDE - CASA DE APOIO DEUS É FIEL
+Assistido: Antonio
+Procedimento: Pós Cirurgico
+Medicação: Tilenol ( 300 mg) - dor de cabeça
+---------------------------------------
